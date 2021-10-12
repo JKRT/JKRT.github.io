@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "John Tinnerholm"
-  avatar           : "profile.png"
+  avatar           : "JohnFacebook.png"
   bio              : "Software Engineer and PhD Student based in Linköping Sweden:)"
   location         : "Sweden"
   employer         :
@@ -103,7 +103,7 @@ author:
   linkedin         :
   pinterest        :
   soundcloud       :
-  stackoverflow    : JKRT
+  stackoverflow    : 3853175/jkrt
   steam            :
   tumblr           :
 
