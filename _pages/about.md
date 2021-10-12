@@ -1,3 +1,4 @@
+---
 permalink: /
 title: "About me"
 excerpt: "About me"
@@ -7,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-PhD student in Linköping interested in software.
+PhD student in Linköping interested in software engineering.
