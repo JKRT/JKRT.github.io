@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+I also do some teaching. Here is a summary made 2021-10-12.
+
 Courses
 ====
 * TDDD55, Compilers and Interpreters 2019, 2020, 2021 (Course assistant 2020, 2021)
