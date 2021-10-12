@@ -82,12 +82,11 @@ analytics:
 author:
   name             : "John Tinnerholm"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Software Engineer and PhD Student based in Linköping Sweden:)"
   location         : "Sweden"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.se/citations?user=evIc2vQAAAAJ&hl=sv"
-  email            :
+  email            : jonh.tinnerholm@liu.se
   researchgate     :  "https://www.researchgate.net/profile/John-Tinnerholm"
   uri              :
   bitbucket        :
@@ -106,16 +105,9 @@ author:
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : https://stackoverflow.com/users/3853175/jkrt
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
 
 # Reading Files
 include:
