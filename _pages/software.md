@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-# Software I have developed
-
-## Summary
+## Portfolio
 Most of my projects can be found on my github page:) 
 Will add more here when I have time..
