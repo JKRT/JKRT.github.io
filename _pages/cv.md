@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Below follows a brief summary of my CV.
+
 Education
 ======
 * History (Courses 2011-2012)
@@ -40,6 +42,7 @@ Publications
 * A Failed attempt at creating Guidelines for Visual GUI Testing: An industrial case study
 * OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl
 * The OpenModelica Integrated Environment for Modeling, Simulation, and Model-Based Development. Modeling, Identification and Control
+
 Talks
 ======
 * Sustainability Modeling with System Dynamics and Modelica MODPROD 2020
