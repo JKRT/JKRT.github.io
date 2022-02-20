@@ -33,3 +33,4 @@ Supervised Master Theses
 * Distributed Queries: An Evaluation of the Microservice Architecture
 * Architectural Implications of Serverless and Function-as-a-Service
 * Net benefits analysis of Visual Regression Testing in a Continuous Integration environment: An industrial case study
+* Prediction of user actions with an Association Rules and two Neural Network models in a configuration environment
