@@ -217,7 +217,7 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal; /* long location/employer lines wrap instead of overflowing */
   }
 
   a {

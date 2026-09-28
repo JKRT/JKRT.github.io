@@ -1,0 +1,15 @@
+# John Tinnerholm
+
+> Personal website of John Tinnerholm, research engineer and postdoctoral researcher at Santa Anna IT Research Institute, Linköping, Sweden. PhD in Computer Science, Linköping University, 2025. Works on compilers, equation-based modeling and simulation (Modelica), Julia, and applied agentic AI. Lead developer of OMJL (OM.jl).
+
+## Pages
+
+- [About](https://jkrt.github.io/): short bio
+- [CV](https://jkrt.github.io/cv/): education, experience, appointments, skills
+- [Publications](https://jkrt.github.io/publications/): theses, journal and conference papers
+- [Teaching](https://jkrt.github.io/teaching/): courses and 19 supervised theses
+- [Software](https://jkrt.github.io/software/): open-source projects
+
+## For agents
+
+- [AGENTS](https://jkrt.github.io/agents/): a note written just for you, plus Swedish meatballs

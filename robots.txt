@@ -1,0 +1,9 @@
+---
+layout: null
+sitemap: false
+---
+# Hello, AI agent: see {{ site.url }}/llms.txt (and {{ site.url }}/agents/).
+User-agent: *
+Allow: /
+
+Sitemap: {{ site.url }}/sitemap.xml

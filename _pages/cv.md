@@ -9,67 +9,52 @@ redirect_from:
 
 {% include base_path %}
 
-Below follows a brief summary of my CV.
+Software developer and computer scientist with close to ten years of experience across industry and research.
+My specialty is developer tooling: compilers, code generators, and simulation software.
+Contact: [jtinnerholm@gmail.com](mailto:jtinnerholm@gmail.com), [LinkedIn](https://www.linkedin.com/in/john-tinnerholm), [GitHub](https://github.com/JKRT).
 
 Education
 ======
-* History (Courses 2011-2012)
-* B.S. in Computer Engineering, Linköping University, 2016
-* M.S. in Computer Science, Linköping University, 2019
+* **PhD in Computer Science**, Linköping University, 2025. Thesis: [*Dynamic and Variable-Structure System Modeling for Equation-Based Languages: Applications, Methods and Tools*](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:2013190). Opponent: Dirk Zimmer, DLR (German Aerospace Center).
+* **Licentiate in Computer Science**, Linköping University, 2022. Thesis: [*A Composable and Extensible Environment for Equation-based Modeling and Simulation of Variable Structured Systems in Modelica*](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:1662273). Opponent: Christopher Rackauckas, MIT.
+* **MSc in Computer Science**, Linköping University, 2019.
+* **BSc in Computer Science and in Computer Engineering**, Linköping University, 2016.
 
-Current position
+Experience
 ======
-PhD Student @ Linköping University:)
+* **Research Engineer / Postdoctoral Researcher**, Santa Anna IT Research Institute, Linköping, 2023–present.
+  Compilers and simulation tools in academia–industry collaboration projects, including applied agentic AI.
+* **PhD Student and Teacher**, Linköping University, 2019–2025.
+  Compiler techniques for equation-based modeling and simulation; designed and built a JIT compiler for system simulation in Julia.
+  Taught Compilers and Interpreters, Scientific Method, Software Design and Construction, and Software Testing; supervised 19 bachelor's and master's theses ([list](/teaching/)).
+* **Development Engineer**, ArcCore AB / Vector Informatik GmbH, Linköping, 2018–2019.
+  Development tools used daily by automotive embedded-software engineers.
+* **Consultant**, Xamera AB, Linköping, 2016–2017.
+  iOS development and legacy system migration.
 
-Work experience
+Selected projects
 ======
-* Service technician Opti Sverige AB 2008-2009
-* Service personel Shell 2011-2013
-* Student Consultant Xamera 2016-2017
-* Developer Engineer Vector Informatik GmbH 2018-2019 
-* Developer Engineer Arccore AB 2018-2019
-* Research Assistant Linköping University 2019 (7 Months)
-
-  
-Skills
-======
-Software development, Teaching, Testing, and more..
+* **[OMJL (OM.jl)](https://github.com/JKRT/OM.jl)**, lead developer, 2019–present.
+  A modeling and simulation environment that brings the Modelica standard into Julia.
+* **[OpenModelica](https://openmodelica.org)**, developer, 2019–present.
+  Compiler and tooling of the Open Source Modelica Consortium.
 
 Publications
 ======
-* Towards an Open-Source Modelica Compiler in Julia
-* Towards introducing just-in-time compilation in a Modelica compiler
-* A Failed attempt at creating Guidelines for Visual GUI Testing: An industrial case study
-* OpenModelica.jl: A modular and extensible Modelica compiler framework in Julia targeting ModelingToolkit.jl
-* The OpenModelica Integrated Environment for Modeling, Simulation, and Model-Based Development. Modeling, Identification and Control
+See [Publications](/publications/) or [Google Scholar](https://scholar.google.com/citations?user=evIc2vQAAAAJ).
 
-Talks
+Appointments
 ======
-* Sustainability Modeling with System Dynamics and Modelica MODPROD 2020
-  
-Teaching
+* **Vice Chair**, HSB Brf Ölänningen, Motala, 2026–present (board member since 2025).
+* **Board Member**, Department of Computer and Information Science (IDA), Linköping University, 2020–2024.
+* **Secretary**, PhD Student Council, Linköping University, 2020–2024.
+
+Skills
 ======
-* TDDD55, Compilers and Interpreters 2019, 2020, 2021 (Course assistant 2020, 2021)
-* TDDE45, Software Design and Construction 2019, 2020, 2021 (Lab assistant)
-* TDDD04, Software Testing 2019, 2020, 2021 (Lab assistant)
-
-Supervised Bachelor Theses
-=====
-* Påverkan på miljö och tidseffektivitet vid övergång från pappersbaserat till digitalt system för hantering av egenkontroller
-* More efficient vehicle diagnostics over the CAN bus through UDS
-* Safe Configurable Multitenant SaaS
-* What is draining the battery on the PineTime smartwatch?
-* Evaluating the personalisation potential in local news
-
-Supervised Master Theses
-=====
-* Holistic View on Alternative Programming languages for Radio Access Network Applications in Cloud and Embedded Deployments
-* Memory efficient Monte Carlo Methods for Computing Shortest Paths in Stochastic Graphs
-* Examining maintenance cost of automated GUI tests - An empirical study of how test script design affects the maintenance of automated visual GUI tests
-* Distributed Queries: An Evaluation of the Microservice Architecture
-* Architectural Implications of Serverless and Function-as-a-Service
-* Net benefits analysis of Visual Regression Testing in a Continuous Integration environment: An industrial case study
+* **Core:** Julia, C, C++, Python, MetaModelica, Modelica, AI-assisted development, Git, Linux, Bash.
+* **Also used professionally:** Java, AUTOSAR, Swift/iOS, JavaScript, Emacs Lisp, LLVM, ANTLR.
+* **Areas:** compiler construction, code generation, modeling and simulation, static analysis, software testing.
 
 Languages
 ======
-Swedish, English
+Swedish (native), English (fluent).
