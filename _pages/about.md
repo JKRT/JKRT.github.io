@@ -12,10 +12,7 @@ I am a research engineer and postdoctoral researcher at **Santa Anna IT Research
 I build developer tools: compilers, code generators, and simulation software that engineers use to design and test physical systems such as vehicles, engines, and power plants.
 I work in collaboration projects between academia and industry, including applied work with agentic AI.
 
-I received my **PhD in Computer Science** from Linköping University in 2025, with the thesis
-[*Dynamic and Variable-Structure System Modeling for Equation-Based Languages: Applications, Methods and Tools*](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:2013190)
-(opponent: Dirk Zimmer, DLR).
-Before that I received my Licentiate degree in 2022 (opponent: Christopher Rackauckas, MIT).
+I hold a **PhD in Computer Science** (2025) and a Licentiate degree (2022) from Linköping University.
 
 I am the lead developer of [OMJL (OM.jl)](https://github.com/JKRT/OM.jl), a Modelica compiler and simulation environment written in Julia, and I contribute to [OpenModelica](https://openmodelica.org).
 Before my doctoral studies I built developer tooling for automotive embedded software at ArcCore AB / Vector Informatik GmbH.

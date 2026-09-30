@@ -22,7 +22,7 @@ repository               : "JKRT/JKRT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "JohnFacebook.jpg"
+  avatar           : "john-tinnerholm.jpg"
   name             : "John Tinnerholm"
   pronouns         : # example: "she/her"
   bio              : "Research engineer / postdoc working on compilers, modeling and simulation, and applied AI."
