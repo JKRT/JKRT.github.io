@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-During my PhD studies at Linköping University (2019–2025) I taught in courses on compilers, software testing, software design, and scientific method,
+At Linköping University (2019–2025) I taught in courses on compilers, software testing, software design, and scientific method,
 and supervised 19 bachelor's and master's theses, many of them together with industry partners.
 
 ## Courses
