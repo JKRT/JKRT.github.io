@@ -15,8 +15,8 @@ Contact: [jtinnerholm@gmail.com](mailto:jtinnerholm@gmail.com), [LinkedIn](https
 
 Education
 ======
-* **PhD in Computer Science**, Linköping University, 2025. Thesis: [*Dynamic and Variable-Structure System Modeling for Equation-Based Languages: Applications, Methods and Tools*](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:2013190). Opponent: Dirk Zimmer, DLR (German Aerospace Center).
-* **Licentiate in Computer Science**, Linköping University, 2022. Thesis: [*A Composable and Extensible Environment for Equation-based Modeling and Simulation of Variable Structured Systems in Modelica*](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:1662273). Opponent: Christopher Rackauckas, MIT.
+* **PhD in Computer Science**, Linköping University, 2025. Thesis: [*Dynamic and Variable-Structure System Modeling for Equation-Based Languages: Applications, Methods and Tools*](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:2013190).
+* **Licentiate in Computer Science**, Linköping University, 2022. Thesis: [*A Composable and Extensible Environment for Equation-based Modeling and Simulation of Variable Structured Systems in Modelica*](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:1662273).
 * **MSc in Computer Science**, Linköping University, 2019.
 * **BSc in Computer Science and in Computer Engineering**, Linköping University, 2016.
 

@@ -42,5 +42,5 @@ Talks, tutorials, and workshop presentations, newest first. Full paper details a
 
 ## Thesis defences
 
-* **2025**: Public defence of my PhD thesis, *Dynamic and Variable-Structure System Modeling for Equation-Based Languages: Applications, Methods and Tools*, Linköping University, 10 December 2025. Opponent: Dirk Zimmer, DLR. [Thesis](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:2013190)
-* **2022**: Licentiate seminar, *A Composable and Extensible Environment for Equation-based Modeling and Simulation of Variable Structured Systems in Modelica*, Linköping University, 10 June 2022. Opponent: Christopher Rackauckas, MIT. [Thesis](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:1662273)
+* **2025**: Public defence of my PhD thesis, *Dynamic and Variable-Structure System Modeling for Equation-Based Languages: Applications, Methods and Tools*, Linköping University, 10 December 2025. [Thesis](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:2013190)
+* **2022**: Licentiate seminar, *A Composable and Extensible Environment for Equation-based Modeling and Simulation of Variable Structured Systems in Modelica*, Linköping University, 10 June 2022. [Thesis](https://liu.diva-portal.org/smash/record.jsf?pid=diva2:1662273)

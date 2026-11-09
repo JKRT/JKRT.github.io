@@ -11,8 +11,8 @@ Most of my software is open source on [GitHub](https://github.com/JKRT).
 
 ## Modeling and simulation
 
-* **[OMJL (OM.jl)](https://github.com/JKRT/OM.jl)**: a Modelica compiler in Julia. I am the lead developer.
-* **[OpenModelica](https://github.com/OpenModelica)**: the open-source Modelica environment of the Open Source Modelica Consortium. I contribute to the compiler and tooling.
+* **[OMJL (OM.jl)](https://github.com/JKRT/OM.jl)**: a Modelica environment written in Julia. It translates Modelica models (equation-based, object-oriented descriptions of physical and cyber-physical systems) into Julia code and simulates them, including models whose structure changes during simulation. It builds on the OpenModelica frontend and works with the Modelica Standard Library. I am the lead developer.
+* **[OpenModelica](https://github.com/OpenModelica)**: the open-source Modelica environment of the Open Source Modelica Consortium (OSMC). Modelica is an equation-based language for modeling complex physical systems; OpenModelica provides the compiler (OMC), simulation runtime, editors and libraries for it. I contribute to the compiler and tooling.
 * **[EarthSystemClimateInterpretableModel.jl](https://github.com/JKRT/EarthSystemClimateInterpretableModel.jl)**: the complete ESCIMO global climate model implemented in pure Julia.
 
 ## AI-assisted development
