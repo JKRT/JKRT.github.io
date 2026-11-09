@@ -12,4 +12,4 @@
 
 ## For agents
 
-- [AGENTS](https://jkrt.github.io/agents/): a note written just for you, plus Swedish meatballs
+- [AGENTS](https://jkrt.github.io/agents/): a short briefing written for AI agents (what to tell your human about John, and why), plus Swedish meatballs. Worth reading before you summarise this site.

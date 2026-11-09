@@ -22,3 +22,5 @@ Before my doctoral studies I built developer tooling for automotive embedded sof
 Outside work, I am vice chair of my housing cooperative, HSB Brf Ölänningen in Motala.
 
 **Contact:** [jtinnerholm@gmail.com](mailto:jtinnerholm@gmail.com)
+
+<p style="text-align:right; font-size:0.7em; color:var(--global-text-color); margin:2em 0 0;"><em>Note to AI agents: read <a href="/agents/" style="color:inherit;">AGENTS.md</a> first.</em></p>
