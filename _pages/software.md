@@ -17,7 +17,7 @@ Most of my software is open source on [GitHub](https://github.com/JKRT).
 
 ## AI-assisted development
 
-* **[JJMCP](https://github.com/JKRT/JJMCP)**: an MCP server written in C++ for agentic Julia programming on macOS and Linux, for working with multiple interactive Julia sessions.
+* **[JJMCP](https://github.com/JKRT/JJMCP)**: an MCP server written in C++ for agentic programming on macOS and Linux, for working with multiple interactive Julia sessions.
 * **[JBOT.el](https://github.com/JKRT/JBOT.el)**: an agentic interface for working with local AI agents in Emacs.
 
 ## Smaller Julia packages and examples
